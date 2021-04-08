@@ -4,24 +4,12 @@ p {
     padding: 0px;
 }
 
-
-/* body {
-    height: 100vh;
-    max-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
-    width: 100vw;
-} */
-
 nav {
     display: flex;
     justify-content: space-around;
     width: 20%;
     margin-left: auto;
     padding: 1.95em;
-    /* align-items: flex-start; */
 }
 
 nav a {
@@ -40,7 +28,6 @@ main {
     margin-right: auto;
     margin-left: auto;
     text-align: center;
-    /* height: 100%; */
 }
 
 .search_containers input {
